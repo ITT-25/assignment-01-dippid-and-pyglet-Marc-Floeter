@@ -11,4 +11,4 @@ Ein kleines Demo-Spiel, dessen Steuerung auf dem Gravitationssensor von DIPPID b
 - Spiel starten mit `python game.py`
 
 ## Mini-Disclaimer:
-Meine Grafikkarte auf meinem Hauptrechner hat den Geist aufgegeben. Weil dann OpenGL für pyglet nicht mehr läuft musste ich für dieses Projekt auf meinen recht schwachen Laptop ausweichen, der etwas lagt (warum auch immer) gerne mal die Verbindung zum DIPPID-Sensor verliert. Ich konnte demnach nicht viel am Balancing schrauben, dafür waren meine Bedingungen zu unrealistisch. Die Konstanten sollten aber recht einfach und dynamisch als Spieleinstellungen veränderbar sein, also probiert gerne selbst herum! 
+Meine Grafikkarte auf meinem Hauptrechner hat den Geist aufgegeben. Weil dann OpenGL für pyglet nicht mehr läuft, musste ich für dieses Projekt auf meinen recht schwachen Laptop ausweichen, der etwas lagt (warum auch immer) gerne mal die Verbindung zum DIPPID-Sensor verliert. Ich konnte demnach nicht viel am Balancing schrauben, dafür waren meine Bedingungen zu unrealistisch. Die Konstanten sollten aber recht einfach und dynamisch als Spieleinstellungen veränderbar sein, also probiert gerne selbst herum! 

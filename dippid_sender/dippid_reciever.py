@@ -1,4 +1,5 @@
 from DIPPID import SensorUDP
+import time
 
 # use UPD (via WiFi) for communication
 PORT = 5700
@@ -12,3 +13,6 @@ def handle_button_1(data):
 
 sensor.register_callback('accelerometer', handle_accelerometer)
 sensor.register_callback('button_1', handle_button_1)
+
+while True:
+    time.sleep(10)
